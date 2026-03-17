@@ -106,6 +106,6 @@ Open-source for research and educational purposes. See repository for commercial
 
 ---
 
-**Author**: Alessandro Bottini
+**Author**: Alessandro Bottino
 **Contact**: Available via GitHub issues
 **Last Updated**: March 2026
